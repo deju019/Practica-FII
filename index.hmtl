@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+</head>
+<body>
+    <h1>Bienvenido a mi sitio web</h1>
+    <p>Este sitio muestra lo que he aprendido sobre HTML y CSS.</p>
+    <nav>
+        <ul>
+            <li><a href="public/about.html">Acerca de mí</a></li>
+            <li><a href="public/topic.html">Tema</a></li>
+            <li><a href="public/contact.html">Contacto</a></li>
+            <li><a href="public/net.html">Red</a></li>
+            <li><a href="public/degree.html">Grado</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
