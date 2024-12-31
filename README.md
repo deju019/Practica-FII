@@ -40,6 +40,7 @@ Héctor Molgar ha sido añadido como colaborador en el repositorio, cumpliendo c
 
 - Ajustes en el diseño del menú y galería de imágenes.
 - Adaptación del CSS para estilos consistentes en diferentes resoluciones.
+- Creacion de una carpeta para introducir todo el proyecto. Al crearla se perdio la ruta del repositorio, y tuve que investigar el error ya que no sabia localizar el problema.
 
 ## Conclusiones
 
